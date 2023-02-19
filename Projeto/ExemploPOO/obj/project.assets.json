@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v3.0": {},
+    ".NETFramework,Version=v3.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\victo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\cursos e certificados\\Cursos\\DIO\\C#\\Programando com Orientação a Objeto com C#\\Projeto\\ExemploPOO\\ExemploPOO.csproj",
+      "projectName": "ExemploPOO",
+      "projectPath": "D:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\cursos e certificados\\Cursos\\DIO\\C#\\Programando com Orientação a Objeto com C#\\Projeto\\ExemploPOO\\ExemploPOO.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\victo\\OneDrive - Fatec Centro Paula Souza\\cursos e certificados\\Cursos\\DIO\\C#\\Programando com Orientação a Objeto com C#\\Projeto\\ExemploPOO\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net30"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net30": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net30": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\Users\victo\OneDrive - Fatec Centro Paula Souza\cursos e certificados\Cursos\DIO\C#\Programando com Orientação a Objeto com C#\Projeto\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
